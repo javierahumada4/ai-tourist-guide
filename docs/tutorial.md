@@ -9,4 +9,12 @@ build image embeddings, and run the offline demo.
 python -m venv .venv
 source .venv/bin/activate  # or Windows equivalent
 pip install -r requirements.txt
+```
 
+## Demo: Image → Top-K + Confidence
+
+Run:
+
+```bash
+PYTHONPATH=src python scripts/demo_image.py photos/test.jpg
+```
