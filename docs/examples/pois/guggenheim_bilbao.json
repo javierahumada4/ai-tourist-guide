@@ -1,0 +1,20 @@
+{
+  "id": "guggenheim_bilbao",
+  "name": "Guggenheim Museum Bilbao",
+  "city": "Bilbao",
+  "country": "Spain",
+  "type": "museum",
+  "card": {
+    "summary": "A contemporary art museum renowned for its innovative architecture and its role in transforming the city of Bilbao.",
+    "era": "Opened in 1997",
+    "style": "Contemporary / Deconstructivist architecture",
+    "facts": [
+      "Designed by architect Frank Gehry.",
+      "The building itself is considered a work of art."
+    ],
+    "tips": [
+      "Walk around the exterior to see the building from different angles.",
+      "Check current exhibitions before your visit."
+    ]
+  }
+}

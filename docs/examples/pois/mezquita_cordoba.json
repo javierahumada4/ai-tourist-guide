@@ -1,0 +1,20 @@
+{
+  "id": "mezquita_cordoba",
+  "name": "Mezquita–Cathedral of Córdoba",
+  "city": "Córdoba",
+  "country": "Spain",
+  "type": "monument",
+  "card": {
+    "summary": "A unique religious building that reflects centuries of Islamic and Christian history, famous for its forest of arches and later cathedral structure.",
+    "era": "8th–16th century",
+    "style": "Islamic architecture with later Christian additions",
+    "facts": [
+      "Originally built as a mosque during the Umayyad Caliphate.",
+      "A Renaissance cathedral was constructed inside the mosque after the Christian reconquest."
+    ],
+    "tips": [
+      "Visit early in the morning for a quieter experience.",
+      "Take time to walk through the interior to appreciate the arches."
+    ]
+  }
+}

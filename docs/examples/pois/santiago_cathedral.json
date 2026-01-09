@@ -1,0 +1,20 @@
+{
+  "id": "santiago_cathedral",
+  "name": "Cathedral of Santiago de Compostela",
+  "city": "Santiago de Compostela",
+  "country": "Spain",
+  "type": "monument",
+  "card": {
+    "summary": "One of the most important pilgrimage destinations in Christianity and the traditional endpoint of the Camino de Santiago.",
+    "era": "11th–18th century",
+    "style": "Romanesque with Baroque and Gothic elements",
+    "facts": [
+      "It is believed to house the remains of Saint James the Apostle.",
+      "Pilgrims from all over the world finish their journey here."
+    ],
+    "tips": [
+      "Attend the Pilgrim’s Mass if possible.",
+      "Explore the surrounding old town after your visit."
+    ]
+  }
+}

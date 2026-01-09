@@ -1,0 +1,20 @@
+{
+  "id": "alhambra",
+  "name": "The Alhambra",
+  "city": "Granada",
+  "country": "Spain",
+  "type": "monument",
+  "card": {
+    "summary": "A historic palace and fortress complex from the Nasrid period.",
+    "era": "13th–15th century",
+    "style": "Islamic Andalusian architecture",
+    "facts": [
+      "One of the most visited monuments in Spain",
+      "Famous for its courtyards and gardens"
+    ],
+    "tips": [
+      "Book tickets in advance",
+      "Visit the Generalife gardens"
+    ]
+  }
+}
